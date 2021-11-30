@@ -142,7 +142,7 @@
     "@openfonts/fira-sans_all": "^1.43.0",
     "@openfonts/source-code-pro_all": "^1.43.0",
     "@openfonts/source-serif-pro_latin": "^1.43.0",
-    "codemirror": "^5.49.2",
+    "codemirror": "^5.58.2",
     "d3-array": "^2.3.3",
     "d3-axis": "^1.0.12",
     "d3-color": "^1.4.0",
