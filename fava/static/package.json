@@ -155,6 +155,6 @@
     "d3-time-format": "^2.2.1",
     "d3-transition": "^1.2.0",
     "mousetrap": "^1.6.3",
-    "svelte": "^3.12.1"
+    "svelte": "^3.49.0"
   }
 }
